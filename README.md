@@ -20,5 +20,5 @@
 
 | Project | Grade |
 | ------- | ----- |
-| [1](https://github.com/gcosta0410/Y2S1-AED-Algoritmos-e-Estruturas-de-Dados/tree/main/P1%20-%20Gest%C3%A3o%20de%20informa%C3%A7%C3%A3o%20em%20uma%20companhia%20a%C3%A9rea) |  19.33/ 20.00 |
-| [2](https://github.com/gcosta0410/Y2S1-AED-Algoritmos-e-Estruturas-de-Dados/tree/main/P2%20-%20Navega%C3%A7%C3%A3o%20nos%20transportes%20p%C3%BAblicos%20do%20Porto) |  18.25/ 20.00 |
+| [1](https://github.com/gcosta0410/Y2S1-AED-Algoritmos-e-Estruturas-de-Dados/tree/main/P1%20-%20Gest%C3%A3o%20de%20informa%C3%A7%C3%A3o%20em%20uma%20companhia%20a%C3%A9rea) |  19.33 / 20.00 |
+| [2](https://github.com/gcosta0410/Y2S1-AED-Algoritmos-e-Estruturas-de-Dados/tree/main/P2%20-%20Navega%C3%A7%C3%A3o%20nos%20transportes%20p%C3%BAblicos%20do%20Porto) |  18.25 / 20.00 |
