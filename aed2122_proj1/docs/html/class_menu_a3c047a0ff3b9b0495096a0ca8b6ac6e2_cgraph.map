@@ -1,0 +1,17 @@
+<map id="Menu::removeTransportsMenu" name="Menu::removeTransportsMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,201,235"/>
+<area shape="rect" id="node2" href="$class_airline.html#a4355248dc8bd16b5fc7880bd34ce7598" title=" " alt="" coords="271,5,410,32"/>
+<area shape="rect" id="node3" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="283,56,398,83"/>
+<area shape="rect" id="node4" href="$class_airline.html#a8178280957b42495d0ad85c09cbaa3b2" title=" " alt="" coords="513,56,635,83"/>
+<area shape="rect" id="node5" href="$class_airport.html#afca151483f0e9f7fded34c00f9f8a1b6" title=" " alt="" coords="269,208,412,235"/>
+<area shape="rect" id="node9" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="301,360,381,387"/>
+<area shape="rect" id="node10" href="$class_airline.html#a87e49a33d4b82f47b62377de77d54b8a" title=" " alt="" coords="265,157,416,184"/>
+<area shape="rect" id="node13" href="$class_airline.html#a7a805c9856d38233f09b5d62741aa126" title=" " alt="" coords="249,411,432,437"/>
+<area shape="rect" id="node14" href="$class_airport.html#ae86011f86813666a37cbeb787266f9a4" title=" " alt="" coords="259,259,422,285"/>
+<area shape="rect" id="node15" href="$class_airline.html#ad1aa26af86b75953961fff4e2f9336c7" title=" " alt="" coords="255,309,426,336"/>
+<area shape="rect" id="node6" href="$class_b_s_t_itr_in.html#ac772d3ebbac748c5f8cf9bc659f2e32c" title=" " alt="" coords="513,208,635,235"/>
+<area shape="rect" id="node7" href="$class_b_s_t_itr_in.html#a7fd8b9dd171b2933b49a8cb111b6a68b" title=" " alt="" coords="513,259,635,285"/>
+<area shape="rect" id="node8" href="$class_b_s_t_itr_in.html#ad839d2705aa293d5449940cb4e796f5d" title=" " alt="" coords="515,309,633,336"/>
+<area shape="rect" id="node11" href="$class_airport.html#aa0b0bae4fa31f4bd0e5492d6f3a8044a" title=" " alt="" coords="480,107,668,133"/>
+<area shape="rect" id="node12" href="$_auxiliary_functions_8cpp.html#a549482c4e8a82f064e0c77275c4f6505" title=" " alt="" coords="518,157,630,184"/>
+</map>

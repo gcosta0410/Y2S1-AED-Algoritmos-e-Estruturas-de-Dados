@@ -1,0 +1,13 @@
+<map id="TestShowFlights" name="TestShowFlights">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,124,159"/>
+<area shape="rect" id="node2" href="$class_airline.html#a24b38073bf1aa3985493e0644771bc2e" title=" " alt="" coords="172,81,307,108"/>
+<area shape="rect" id="node3" href="$class_airline.html#a52b6300b0093edf434ed1a1a4df11c99" title=" " alt="" coords="175,132,304,159"/>
+<area shape="rect" id="node11" href="$class_airline.html#a54fc8e7463102383c68932c04f843397" title=" " alt="" coords="174,183,305,209"/>
+<area shape="rect" id="node4" href="$class_plane.html#a3968b4955236e9664ef3ebcf087a1241" title=" " alt="" coords="363,31,479,57"/>
+<area shape="rect" id="node7" href="$class_airline.html#a8178280957b42495d0ad85c09cbaa3b2" title=" " alt="" coords="359,81,482,108"/>
+<area shape="rect" id="node8" href="$class_plane.html#a861dbfdf67839656d47d3179463bab77" title=" " alt="" coords="355,132,487,159"/>
+<area shape="rect" id="node9" href="$class_plane.html#a7c49130c9bff9e142d71f5b77ca6d524" title=" " alt="" coords="367,183,474,209"/>
+<area shape="rect" id="node10" href="$class_airline.html#a1769541f3f6339d6bd4773c915804f00" title=" " alt="" coords="362,233,479,260"/>
+<area shape="rect" id="node5" href="$class_flight.html#acd411dbcd41aea49812c4c9f29369fab" title=" " alt="" coords="535,5,731,32"/>
+<area shape="rect" id="node6" href="$class_flight.html#af9b8d75d25a84d7f6c466c2634ff24a5" title=" " alt="" coords="561,56,704,83"/>
+</map>

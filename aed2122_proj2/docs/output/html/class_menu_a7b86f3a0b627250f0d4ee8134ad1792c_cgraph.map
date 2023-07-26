@@ -1,0 +1,14 @@
+<map id="Menu::MSTMenu" name="Menu::MSTMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,127,159"/>
+<area shape="rect" id="node2" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="177,5,292,32"/>
+<area shape="rect" id="node3" href="$class_stcp.html#a0857410ed0b0afdceb3b467323a5c971" title=" " alt="" coords="175,56,294,83"/>
+<area shape="rect" id="node8" href="$_auxiliary_functions_8cpp.html#aa843ecd14035cb765a696717daf13a69" title=" " alt="" coords="193,107,276,133"/>
+<area shape="rect" id="node10" href="$class_stcp.html#a270240b3583fe629258135c0c377b4d5" title=" " alt="" coords="179,157,291,184"/>
+<area shape="rect" id="node11" href="$class_stcp.html#a25cdc06d8aa9117fc56b988cbc235273" title=" " alt="" coords="179,208,291,235"/>
+<area shape="rect" id="node12" href="$class_stcp.html#a51b6b30059862330f6cca45a48e6de73" title=" " alt="" coords="175,259,295,285"/>
+<area shape="rect" id="node4" href="$class_graph.html#a818dfec6a108ff92bac49fc83559f2af" title=" " alt="" coords="343,56,449,83"/>
+<area shape="rect" id="node5" href="$class_disjoint_sets.html#a9bf1e295744ad2fa90ea8108156f53ff" title=" " alt="" coords="513,5,633,32"/>
+<area shape="rect" id="node6" href="$class_disjoint_sets.html#a0b28260c39a444326dd81d442795d831" title=" " alt="" coords="497,56,649,83"/>
+<area shape="rect" id="node7" href="$class_disjoint_sets.html#a9fe8116806e617cf120082e7ba99f0c8" title=" " alt="" coords="509,107,637,133"/>
+<area shape="rect" id="node9" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="356,107,436,133"/>
+</map>

@@ -1,0 +1,7 @@
+F-GUGJ,2021,12,17,5001,cleaning,1
+N102NN,2021,12,21,5001,cleaning,0
+N102NN,2022,12,1,5002,maintenance,0
+PH-HXG,2022,01,16,5008,cleaning,0
+PH-HXG,2021,12,20,5007,maintenance,0
+CS-TXH,2021,12,17,5006,cleaning,1
+CS-TXH,2022,02,02,5004,maintenance,0

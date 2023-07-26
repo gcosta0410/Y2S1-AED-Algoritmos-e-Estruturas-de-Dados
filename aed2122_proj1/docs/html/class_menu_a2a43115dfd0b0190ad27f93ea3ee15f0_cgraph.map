@@ -1,0 +1,22 @@
+<map id="Menu::showFlightsMenu" name="Menu::showFlightsMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,284,168,311"/>
+<area shape="rect" id="node2" href="$class_airline.html#aaebb1a5bfa90ba792dfff6b0706b5ed2" title=" " alt="" coords="240,5,399,32"/>
+<area shape="rect" id="node3" href="$class_airline.html#acd0602e4be1fc1f4583c17c67abc632b" title=" " alt="" coords="249,56,389,83"/>
+<area shape="rect" id="node10" href="$class_airline.html#ac8e0be711035fa5aaf6304d37f33e427" title=" " alt="" coords="229,107,409,133"/>
+<area shape="rect" id="node11" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="262,157,377,184"/>
+<area shape="rect" id="node12" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="531,233,611,260"/>
+<area shape="rect" id="node13" href="$_auxiliary_functions_8cpp.html#a21fe6a377674626488042982d16a2268" title=" " alt="" coords="278,259,361,285"/>
+<area shape="rect" id="node14" href="$class_airline.html#ab5660a1931e6625ce41850263aca5599" title=" " alt="" coords="252,309,387,336"/>
+<area shape="rect" id="node15" href="$class_flight.html#a5ee398d8288d0c507668b27cbc048f01" title=" " alt="" coords="263,360,375,387"/>
+<area shape="rect" id="node17" href="$class_airline.html#a551cf66442675734c072c2aed03e863b" title=" " alt="" coords="252,411,387,437"/>
+<area shape="rect" id="node18" href="$class_airline.html#a6379f5978bcaa5a04bc050adc8774610" title=" " alt="" coords="226,461,413,488"/>
+<area shape="rect" id="node19" href="$class_airline.html#a44298370ab125c800955f95393a12aeb" title=" " alt="" coords="216,512,423,539"/>
+<area shape="rect" id="node20" href="$class_airline.html#a39d6ac45c8fff6b92dcf5511772d027d" title=" " alt="" coords="229,563,410,589"/>
+<area shape="rect" id="node4" href="$_auxiliary_functions_8cpp.html#ad862261a88eb3881725546a1d5c2c2b1" title=" " alt="" coords="534,5,607,32"/>
+<area shape="rect" id="node5" href="$_auxiliary_functions_8cpp.html#a62b48a5d57e511a4d54bbf667cea8852" title=" " alt="" coords="543,56,598,83"/>
+<area shape="rect" id="node6" href="$class_flight.html#a26dc19ea0b27016b4c992f13ad677d4f" title=" " alt="" coords="471,107,671,133"/>
+<area shape="rect" id="node7" href="$class_date.html#a3036603603ace2b9f5e688d2d3863db1" title="Get the Date string in yyyy/mm/dd format." alt="" coords="729,56,828,83"/>
+<area shape="rect" id="node8" href="$class_airport.html#a4f8fbb5b1c5250bf0aaa77dfc25897dc" title=" " alt="" coords="724,107,833,133"/>
+<area shape="rect" id="node9" href="$class_airport.html#a5f6d1d66d9d1b5af15b67c500e444f9f" title=" " alt="" coords="719,157,839,184"/>
+<area shape="rect" id="node16" href="$class_transport_car.html#a93f0b750d26a5aef2b039ec8bd6ebca4" title=" " alt="" coords="493,360,648,387"/>
+</map>

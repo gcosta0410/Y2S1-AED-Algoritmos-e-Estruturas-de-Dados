@@ -1,0 +1,6 @@
+Aeroporto Internacional Humberto Delgado,Lisboa,Portugal
+Aeroporto Internacional Francisco Sa Carneiro,Porto,Portugal
+Aeroporto Internacional Adolfo Suarez-Barajas,Madrid,Espanha
+Aeroporto Internacional de Lyon,Lyon,Franca
+Aeroporto Internacional de Amsterdao Schiphol,Amesterdao,Paises Baixos
+Aeroporto Marco Polo,Veneza,Italia

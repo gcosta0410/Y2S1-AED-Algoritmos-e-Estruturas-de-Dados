@@ -1,0 +1,15 @@
+<map id="Menu::removeServicesMenu" name="Menu::removeServicesMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,189,285"/>
+<area shape="rect" id="node2" href="$class_menu.html#af1c7dd216eee2c3be8ee597ea38fef24" title=" " alt="" coords="240,132,384,159"/>
+<area shape="rect" id="node4" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="463,5,577,32"/>
+<area shape="rect" id="node5" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="653,157,733,184"/>
+<area shape="rect" id="node8" href="$class_airline.html#ab5660a1931e6625ce41850263aca5599" title=" " alt="" coords="245,309,379,336"/>
+<area shape="rect" id="node9" href="$class_airline.html#a433fbe6f618e0a8e7965bdb50693f344" title=" " alt="" coords="237,360,387,387"/>
+<area shape="rect" id="node3" href="$_auxiliary_functions_8cpp.html#ab084594c2039575ca15706244fed0987" title=" " alt="" coords="478,56,562,83"/>
+<area shape="rect" id="node6" href="$_auxiliary_functions_8cpp.html#a21fe6a377674626488042982d16a2268" title=" " alt="" coords="479,157,561,184"/>
+<area shape="rect" id="node7" href="$class_airline.html#abb375506ab45f5721f66174687291633" title=" " alt="" coords="449,208,591,235"/>
+<area shape="rect" id="node10" href="$class_service.html#a719b071291418ddb56ccf3602abe6cee" title=" " alt="" coords="443,309,597,336"/>
+<area shape="rect" id="node11" href="$class_airline.html#a74f9a5dc1d944d82a7bd5f380d50dbd7" title=" " alt="" coords="451,360,589,387"/>
+<area shape="rect" id="node12" href="$class_airline.html#a980a882338160efebd17e6f7ad363c31" title=" " alt="" coords="435,411,605,437"/>
+<area shape="rect" id="node13" href="$class_airline.html#a823d10aa466f3c6c255ed2ec2326dee8" title=" " alt="" coords="441,461,599,488"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Flight::showFlightToPassenger" name="Flight::showFlightToPassenger">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,205,83"/>
+<area shape="rect" id="node2" href="$class_date.html#a3036603603ace2b9f5e688d2d3863db1" title="Get the Date string in yyyy/mm/dd format." alt="" coords="264,5,363,32"/>
+<area shape="rect" id="node3" href="$class_airport.html#a4f8fbb5b1c5250bf0aaa77dfc25897dc" title=" " alt="" coords="259,56,368,83"/>
+<area shape="rect" id="node4" href="$class_airport.html#a5f6d1d66d9d1b5af15b67c500e444f9f" title=" " alt="" coords="253,107,373,133"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['setdist_0',['setDist',['../class_stcp.html#aae572cc4480cc729005e10d90dcef630',1,'Stcp']]],
+  ['setdiurno_1',['setDiurno',['../class_stcp.html#a270240b3583fe629258135c0c377b4d5',1,'Stcp']]],
+  ['setendcode_2',['setEndCode',['../class_stcp.html#af44a4be4653e5b60e17199ab95a0c9c3',1,'Stcp']]],
+  ['setendcoords_3',['setEndCoords',['../class_stcp.html#a23346cb61bb17e1a6283c3cf4c6ce2a7',1,'Stcp']]],
+  ['setendname_4',['setEndName',['../class_stcp.html#adfe38e651f6843b281009352b9d0a572',1,'Stcp']]],
+  ['setglobal_5',['setGlobal',['../class_stcp.html#a25cdc06d8aa9117fc56b988cbc235273',1,'Stcp']]],
+  ['setnoturno_6',['setNoturno',['../class_stcp.html#a51b6b30059862330f6cca45a48e6de73',1,'Stcp']]],
+  ['setstartcode_7',['setStartCode',['../class_stcp.html#ac051a347ed11838aabe35c569464d8f3',1,'Stcp']]],
+  ['setstartcoords_8',['setStartCoords',['../class_stcp.html#a5e2ceabf70fa7ea1d622213d57506ec8',1,'Stcp']]],
+  ['setstartname_9',['setStartName',['../class_stcp.html#a4720cf5abeb82aa1e25ed4621922bf7f',1,'Stcp']]],
+  ['setwalkinvalid_10',['setWalkInvalid',['../class_stcp.html#af41f339d76d00425ace54e2c7cd9b0ca',1,'Stcp']]],
+  ['setwalkvalid_11',['setWalkValid',['../class_stcp.html#a363aa79469c815230ecb1fb98153859c',1,'Stcp']]],
+  ['showbestdistanceroute_12',['showBestDistanceRoute',['../class_menu.html#ac0f59cd218af35ea379f4c3429532360',1,'Menu']]],
+  ['showleastlinesroute_13',['showLeastLinesRoute',['../class_menu.html#a2edd9a4545b9c5d55dd01991e7b382af',1,'Menu']]],
+  ['showleastlineswithleaststopsroute_14',['showLeastLinesWithLeastStopsRoute',['../class_menu.html#a8a1a5406fb06d2b324c670485f59b5af',1,'Menu']]],
+  ['showleaststopsroute_15',['showLeastStopsRoute',['../class_menu.html#a6b9811bbff250e3f9757526b67f12397',1,'Menu']]],
+  ['showleastzonechangesroute_16',['showLeastZoneChangesRoute',['../class_menu.html#aa1b692c5bcb78da2df7e1e1071c1ab84',1,'Menu']]],
+  ['stcp_17',['Stcp',['../class_stcp.html',1,'Stcp'],['../class_graph.html#ae3671ee155355520050c3383c8c898ce',1,'Graph::Stcp()'],['../class_line_graph.html#ae3671ee155355520050c3383c8c898ce',1,'LineGraph::Stcp()'],['../class_stcp.html#ae48842f9e35a39551450176234f6d678',1,'Stcp::Stcp()']]],
+  ['stcp_2ecpp_18',['Stcp.cpp',['../_stcp_8cpp.html',1,'']]],
+  ['stcp_2eh_19',['Stcp.h',['../_stcp_8h.html',1,'']]],
+  ['stcpmenu_20',['stcpMenu',['../class_menu.html#aa5d955c9505e8eaa928082be776c8cd7',1,'Menu']]],
+  ['stop_21',['Stop',['../struct_stop.html',1,'']]]
+];

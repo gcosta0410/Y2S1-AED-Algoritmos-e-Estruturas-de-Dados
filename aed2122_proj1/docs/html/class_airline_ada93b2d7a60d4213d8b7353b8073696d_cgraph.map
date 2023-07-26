@@ -1,0 +1,15 @@
+<map id="Airline::addFlight" name="Airline::addFlight">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,124,285"/>
+<area shape="rect" id="node2" href="$class_flight.html#a7dcbaf80bebcbc03f0be2d246ead438d" title=" " alt="" coords="181,5,343,32"/>
+<area shape="rect" id="node3" href="$class_date.html#a13855b25efb79eaf7dccf08555421a1d" title=" " alt="" coords="213,56,311,83"/>
+<area shape="rect" id="node4" href="$class_flight.html#ae9b2a67e2b8c74c22b4dd3de37408dab" title=" " alt="" coords="189,107,335,133"/>
+<area shape="rect" id="node5" href="$class_date.html#a6152596dcf2e1e78e2095ea518de59e7" title=" " alt="" coords="207,157,317,184"/>
+<area shape="rect" id="node6" href="$class_airport.html#a5f6d1d66d9d1b5af15b67c500e444f9f" title=" " alt="" coords="202,208,322,235"/>
+<area shape="rect" id="node7" href="$class_flight.html#ad82aac4d96c73c85d51dbb21f58c5194" title=" " alt="" coords="205,259,319,285"/>
+<area shape="rect" id="node8" href="$class_plane.html#a18b2fd17986d1563f7a5a37dac87ca08" title=" " alt="" coords="172,309,352,336"/>
+<area shape="rect" id="node9" href="$class_flight.html#a95753e887c087ee6c57e741ac62593ea" title=" " alt="" coords="199,360,325,387"/>
+<area shape="rect" id="node11" href="$class_date.html#a597b505c264a24d34369c43119fc4e6e" title=" " alt="" coords="211,411,313,437"/>
+<area shape="rect" id="node12" href="$class_airline.html#a24b38073bf1aa3985493e0644771bc2e" title=" " alt="" coords="195,461,329,488"/>
+<area shape="rect" id="node13" href="$class_flight.html#af9b8d75d25a84d7f6c466c2634ff24a5" title=" " alt="" coords="191,512,333,539"/>
+<area shape="rect" id="node10" href="$class_time__m.html#a300ecbb84adca11622bc529c6cd7332e" title=" " alt="" coords="400,360,519,387"/>
+</map>

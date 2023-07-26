@@ -1,0 +1,37 @@
+<map id="Menu::removeAirportsMenu" name="Menu::removeAirportsMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,383,185,410"/>
+<area shape="rect" id="node2" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="249,333,363,359"/>
+<area shape="rect" id="node3" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="266,383,346,410"/>
+<area shape="rect" id="node4" href="$class_airline.html#a5210f150560d916727f5257d9a63bc82" title=" " alt="" coords="233,434,379,461"/>
+<area shape="rect" id="node5" href="$_auxiliary_functions_8cpp.html#ac0fc966d4386ddb71d99361e3fccb311" title=" " alt="" coords="714,54,789,81"/>
+<area shape="rect" id="node6" href="$class_airline.html#a24b38073bf1aa3985493e0644771bc2e" title=" " alt="" coords="451,155,585,182"/>
+<area shape="rect" id="node7" href="$class_airline.html#a52b6300b0093edf434ed1a1a4df11c99" title=" " alt="" coords="453,257,583,283"/>
+<area shape="rect" id="node15" href="$class_airline.html#a74f9a5dc1d944d82a7bd5f380d50dbd7" title=" " alt="" coords="449,307,587,334"/>
+<area shape="rect" id="node16" href="$class_airline.html#ad8d31e3e01e2e69c91f6e9c5dd6dfccf" title=" " alt="" coords="452,358,584,385"/>
+<area shape="rect" id="node18" href="$class_airline.html#a87e49a33d4b82f47b62377de77d54b8a" title=" " alt="" coords="443,206,593,233"/>
+<area shape="rect" id="node21" href="$class_airline.html#aa6aa1a80e363694afdc53c89d621c7c6" title=" " alt="" coords="435,409,601,435"/>
+<area shape="rect" id="node22" href="$class_airline.html#a74aee4ba93067cb7bc0da5a913c94618" title=" " alt="" coords="437,459,599,486"/>
+<area shape="rect" id="node23" href="$class_airline.html#a980a882338160efebd17e6f7ad363c31" title=" " alt="" coords="433,510,603,537"/>
+<area shape="rect" id="node24" href="$class_airline.html#ad4416fad5b4a391d8694fe161eb29754" title=" " alt="" coords="436,561,600,587"/>
+<area shape="rect" id="node25" href="$class_airline.html#a7a805c9856d38233f09b5d62741aa126" title=" " alt="" coords="427,611,609,638"/>
+<area shape="rect" id="node26" href="$class_airline.html#a24cfe48f825983e9c82d5dac888c279d" title=" " alt="" coords="445,54,591,81"/>
+<area shape="rect" id="node27" href="$class_airline.html#af289bf236b44e6bfc69f5e7dc8af5f72" title=" " alt="" coords="443,105,593,131"/>
+<area shape="rect" id="node28" href="$class_airline.html#ab8547c8535ac84659f079cc38857521b" title=" " alt="" coords="441,662,595,689"/>
+<area shape="rect" id="node29" href="$class_airline.html#a9e5313f530e81f0ad4f6d3049079c225" title=" " alt="" coords="443,713,593,739"/>
+<area shape="rect" id="node30" href="$class_airline.html#a823d10aa466f3c6c255ed2ec2326dee8" title=" " alt="" coords="439,763,597,790"/>
+<area shape="rect" id="node31" href="$class_airline.html#aa7e6b4355bf7d97c9ab8f1f1bcabf550" title=" " alt="" coords="442,814,594,841"/>
+<area shape="rect" id="node32" href="$class_airline.html#ad1aa26af86b75953961fff4e2f9336c7" title=" " alt="" coords="433,865,603,891"/>
+<area shape="rect" id="node8" href="$class_plane.html#a3968b4955236e9664ef3ebcf087a1241" title=" " alt="" coords="693,257,809,283"/>
+<area shape="rect" id="node11" href="$class_airline.html#a8178280957b42495d0ad85c09cbaa3b2" title=" " alt="" coords="690,206,813,233"/>
+<area shape="rect" id="node12" href="$class_plane.html#a861dbfdf67839656d47d3179463bab77" title=" " alt="" coords="685,307,817,334"/>
+<area shape="rect" id="node13" href="$class_plane.html#a7c49130c9bff9e142d71f5b77ca6d524" title=" " alt="" coords="698,358,805,385"/>
+<area shape="rect" id="node14" href="$class_airline.html#a1769541f3f6339d6bd4773c915804f00" title=" " alt="" coords="693,409,810,435"/>
+<area shape="rect" id="node9" href="$class_flight.html#acd411dbcd41aea49812c4c9f29369fab" title=" " alt="" coords="893,231,1089,258"/>
+<area shape="rect" id="node10" href="$class_flight.html#af9b8d75d25a84d7f6c466c2634ff24a5" title=" " alt="" coords="920,282,1063,309"/>
+<area shape="rect" id="node17" href="$class_airline.html#adc6d4dc90804fb9c258d753731732187" title=" " alt="" coords="680,459,823,486"/>
+<area shape="rect" id="node19" href="$class_airport.html#aa0b0bae4fa31f4bd0e5492d6f3a8044a" title=" " alt="" coords="657,105,845,131"/>
+<area shape="rect" id="node20" href="$_auxiliary_functions_8cpp.html#a549482c4e8a82f064e0c77275c4f6505" title=" " alt="" coords="695,155,807,182"/>
+<area shape="rect" id="node33" href="$class_b_s_t_itr_in.html#ac772d3ebbac748c5f8cf9bc659f2e32c" title=" " alt="" coords="690,814,813,841"/>
+<area shape="rect" id="node34" href="$class_b_s_t_itr_in.html#a7fd8b9dd171b2933b49a8cb111b6a68b" title=" " alt="" coords="690,865,813,891"/>
+<area shape="rect" id="node35" href="$class_b_s_t_itr_in.html#ad839d2705aa293d5449940cb4e796f5d" title=" " alt="" coords="693,915,810,942"/>
+</map>

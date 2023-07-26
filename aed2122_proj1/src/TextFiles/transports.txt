@@ -1,0 +1,5 @@
+Aeroporto Internacional Humberto Delgado,bus,2,10:00,19:00,00:20
+Aeroporto Internacional Francisco Sa Carneiro,metro,2,06:00,23:00,00:20
+Aeroporto Internacional Adolfo Suarez-Barajas,bus,1,07:30,23:00,00:20,train,3,05:00,19:00,01:00
+Aeroporto Internacional de Lyon,bus,1,08:00,22:00,00:30,train,3,09:00,20:00,00:50,metro,4,06:00,07:00,00:20
+Aeroporto Internacional de Amsterdao Schiphol,metro,1,09:00,23:00,00:30,train,3,06:30,21:00,01:15

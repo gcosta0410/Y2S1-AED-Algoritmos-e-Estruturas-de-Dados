@@ -1,0 +1,13 @@
+<map id="Menu::showPlanesMenu" name="Menu::showPlanesMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node2" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="257,5,371,32"/>
+<area shape="rect" id="node3" href="$_auxiliary_functions_8cpp.html#a21fe6a377674626488042982d16a2268" title=" " alt="" coords="273,56,355,83"/>
+<area shape="rect" id="node5" href="$class_airline.html#a9d754f8593752a0d0ca87cdbaa5f0441" title=" " alt="" coords="217,119,411,145"/>
+<area shape="rect" id="node4" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="508,43,588,69"/>
+<area shape="rect" id="node6" href="$_auxiliary_functions_8cpp.html#a24022301bf59ee123da4e9b384fb651f" title=" " alt="" coords="459,144,637,171"/>
+<area shape="rect" id="node9" href="$_auxiliary_functions_8cpp.html#a830a9f96959614c2ccb9cedddfc56901" title=" " alt="" coords="469,195,627,221"/>
+<area shape="rect" id="node10" href="$_auxiliary_functions_8cpp.html#ac852470e2073db7baf00519cfbbb21a1" title=" " alt="" coords="470,93,626,120"/>
+<area shape="rect" id="node7" href="$class_plane.html#a861dbfdf67839656d47d3179463bab77" title=" " alt="" coords="709,144,841,171"/>
+<area shape="rect" id="node8" href="$class_plane.html#a18b2fd17986d1563f7a5a37dac87ca08" title=" " alt="" coords="685,195,865,221"/>
+<area shape="rect" id="node11" href="$class_plane.html#a5441a4367aeb37cd1548b5926ec58539" title=" " alt="" coords="704,93,847,120"/>
+</map>

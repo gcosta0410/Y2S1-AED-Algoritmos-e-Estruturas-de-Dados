@@ -1,0 +1,10 @@
+Aeroporto Internacional Humberto Delgado,Aeroporto Internacional Francisco Sa Carneiro,F-GUGJ,2021,12,22,19:25,2,3,2
+Aeroporto Internacional Humberto Delgado,Aeroporto Internacional Francisco Sa Carneiro,N102NN,2022,03,15,17:17,1,4,2
+Aeroporto Internacional Humberto Delgado,Aeroporto Internacional Francisco Sa Carneiro,N102NN,2024,02,02,13:13,2,3,1
+Aeroporto Internacional Adolfo Suarez-Barajas,Aeroporto Internacional de Lyon,PH-HXG,2022,04,01,12:12,2,3,2
+Aeroporto Internacional de Lyon,Aeroporto Internacional Adolfo Suarez-Barajas,PH-HXG,2022,05,01,14:12,2,3,2
+Aeroporto Marco Polo,Aeroporto Internacional de Amsterdao Schiphol,CS-TXH,2022,02,02,10:00,2,4,1
+Aeroporto Internacional de Amsterdao Schiphol,Aeroporto Marco Polo,CS-TXH,2022,02,17,09:00,2,4,1
+Aeroporto Internacional Francisco Sa Carneiro,Aeroporto Internacional Humberto Delgado,F-GUGJ,2022,04,15,18:17,1,4,3
+Aeroporto Marco Polo,Aeroporto Internacional Francisco Sa Carneiro,CS-TXH,2022,01,30,23:40,1,4,1
+Aeroporto Internacional Humberto Delgado,Aeroporto Marco Polo,PH-HXG,2022,03,20,16:15,3,3,8

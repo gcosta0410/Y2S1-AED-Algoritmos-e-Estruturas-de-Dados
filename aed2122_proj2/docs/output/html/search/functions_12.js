@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['validatetime_0',['validateTime',['../_auxiliary_functions_8cpp.html#ad2fc7bd2050bd727258426303b849f39',1,'AuxiliaryFunctions.cpp']]],
+  ['validcode_1',['validCode',['../_auxiliary_functions_8cpp.html#af2e1b6673457627c5feed652039a974a',1,'validCode(const std::string &amp;name, const std::unordered_map&lt; std::string, int &gt; &amp;paragens):&#160;AuxiliaryFunctions.cpp'],['../_auxiliary_functions_8h.html#af2e1b6673457627c5feed652039a974a',1,'validCode(const std::string &amp;name, const std::unordered_map&lt; std::string, int &gt; &amp;paragens):&#160;AuxiliaryFunctions.cpp']]],
+  ['validcoords_2',['validCoords',['../_auxiliary_functions_8cpp.html#aee9dae2bf351c30c9b8f0cb949148e88',1,'validCoords(const std::string &amp;coords, double &amp;lat, double &amp;lon):&#160;AuxiliaryFunctions.cpp'],['../_auxiliary_functions_8h.html#aee9dae2bf351c30c9b8f0cb949148e88',1,'validCoords(const std::string &amp;coords, double &amp;lat, double &amp;lon):&#160;AuxiliaryFunctions.cpp']]],
+  ['validname_3',['validName',['../_auxiliary_functions_8cpp.html#ab19cedadbfbaa8b658754a266a2545fb',1,'validName(const std::string &amp;name, const std::unordered_map&lt; std::string, std::string &gt; &amp;paragens):&#160;AuxiliaryFunctions.cpp'],['../_auxiliary_functions_8h.html#ab19cedadbfbaa8b658754a266a2545fb',1,'validName(const std::string &amp;name, const std::unordered_map&lt; std::string, std::string &gt; &amp;paragens):&#160;AuxiliaryFunctions.cpp']]]
+];

@@ -1,0 +1,9 @@
+<map id="Menu::addWorkersMenu" name="Menu::addWorkersMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node2" href="$class_menu.html#a6b3d0aadef6604c5510f6d29f790aaa0" title=" " alt="" coords="217,56,361,83"/>
+<area shape="rect" id="node6" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="417,5,531,32"/>
+<area shape="rect" id="node7" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="434,107,514,133"/>
+<area shape="rect" id="node3" href="$class_airline.html#ae0c3a31728ee56a2eb2281a289acaf56" title=" " alt="" coords="409,56,539,83"/>
+<area shape="rect" id="node4" href="$class_airline.html#a55da9e7a21d2c9d2c8494204cb931a85" title=" " alt="" coords="587,56,725,83"/>
+<area shape="rect" id="node5" href="$class_worker.html#a99e170f3704bdd1e88e977b1a07cebe4" title=" " alt="" coords="773,56,884,83"/>
+</map>

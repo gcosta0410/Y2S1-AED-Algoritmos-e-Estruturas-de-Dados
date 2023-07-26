@@ -1,0 +1,12 @@
+<map id="Menu::askForPlane" name="Menu::askForPlane">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,140,209"/>
+<area shape="rect" id="node2" href="$class_airline.html#a2e32089212df19985c49fb54898c7dc8" title=" " alt="" coords="192,107,319,133"/>
+<area shape="rect" id="node8" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="198,157,313,184"/>
+<area shape="rect" id="node9" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="215,208,295,235"/>
+<area shape="rect" id="node10" href="$class_airline.html#ab5660a1931e6625ce41850263aca5599" title=" " alt="" coords="188,259,323,285"/>
+<area shape="rect" id="node3" href="$class_plane.html#a861dbfdf67839656d47d3179463bab77" title=" " alt="" coords="395,5,527,32"/>
+<area shape="rect" id="node4" href="$class_plane.html#a7c49130c9bff9e142d71f5b77ca6d524" title=" " alt="" coords="407,56,514,83"/>
+<area shape="rect" id="node5" href="$class_plane.html#a5441a4367aeb37cd1548b5926ec58539" title=" " alt="" coords="389,107,532,133"/>
+<area shape="rect" id="node6" href="$class_plane.html#a18b2fd17986d1563f7a5a37dac87ca08" title=" " alt="" coords="371,157,551,184"/>
+<area shape="rect" id="node7" href="$class_airline.html#a54fc8e7463102383c68932c04f843397" title=" " alt="" coords="395,208,526,235"/>
+</map>

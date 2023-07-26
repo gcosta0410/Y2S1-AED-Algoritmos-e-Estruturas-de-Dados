@@ -1,0 +1,19 @@
+<map id="Menu::updateFlightsMenu" name="Menu::updateFlightsMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,177,285"/>
+<area shape="rect" id="node2" href="$_auxiliary_functions_8cpp.html#ab084594c2039575ca15706244fed0987" title=" " alt="" coords="285,5,369,32"/>
+<area shape="rect" id="node3" href="$class_menu.html#a93b7c3dac7ed3114ebe8a3573c7c837b" title=" " alt="" coords="269,56,384,83"/>
+<area shape="rect" id="node4" href="$class_airline.html#adc6d4dc90804fb9c258d753731732187" title=" " alt="" coords="255,107,398,133"/>
+<area shape="rect" id="node5" href="$_auxiliary_functions_8cpp.html#a914ff7baa0887ed250b49f0dcccdce84" title=" " alt="" coords="287,157,367,184"/>
+<area shape="rect" id="node6" href="$class_airline.html#a551cf66442675734c072c2aed03e863b" title=" " alt="" coords="259,208,394,235"/>
+<area shape="rect" id="node7" href="$class_airline.html#a73f12080085a4112a1d2710f43da6dad" title=" " alt="" coords="258,259,395,285"/>
+<area shape="rect" id="node10" href="$class_airline.html#a193a7e43cba1eba3893ebcca1d58cd54" title=" " alt="" coords="245,309,409,336"/>
+<area shape="rect" id="node11" href="$class_airline.html#ac3dbabb02890c189afa85941d41be14b" title=" " alt="" coords="225,360,428,387"/>
+<area shape="rect" id="node14" href="$class_airline.html#a588690660a8342eaf3c510cd32ec225b" title=" " alt="" coords="244,411,409,437"/>
+<area shape="rect" id="node15" href="$_auxiliary_functions_8cpp.html#ad2fc7bd2050bd727258426303b849f39" title=" " alt="" coords="280,461,373,488"/>
+<area shape="rect" id="node17" href="$class_time__m.html#a14c17e2136044dd5c3b9716a7374817b" title=" " alt="" coords="262,512,391,539"/>
+<area shape="rect" id="node8" href="$class_airline.html#a74aee4ba93067cb7bc0da5a913c94618" title=" " alt="" coords="476,221,637,248"/>
+<area shape="rect" id="node9" href="$class_airline.html#a9e5313f530e81f0ad4f6d3049079c225" title=" " alt="" coords="482,272,631,299"/>
+<area shape="rect" id="node12" href="$class_airline.html#a4355248dc8bd16b5fc7880bd34ce7598" title=" " alt="" coords="487,335,626,361"/>
+<area shape="rect" id="node13" href="$class_airline.html#a8178280957b42495d0ad85c09cbaa3b2" title=" " alt="" coords="495,385,618,412"/>
+<area shape="rect" id="node16" href="$_auxiliary_functions_8cpp.html#aaa3b01d6b7b6b5bf4b868b37fcf3ac6f" title=" " alt="" coords="518,461,595,488"/>
+</map>
